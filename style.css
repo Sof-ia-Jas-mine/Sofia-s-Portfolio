@@ -59,3 +59,26 @@ button:active {
 html {
     scroll-behavior: smooth;
 }
+Add this to style.css:
+
+CSS
+nav {
+text-align: center;
+margin: 20px 0;
+}
+ 
+nav a {
+display: inline-block;
+margin: 5px;
+padding: 10px 15px;
+background-color: white;
+color: #C78A9A;
+text-decoration: none;
+border-radius: 10px;
+font-weight: bold;
+}
+ 
+nav a:hover {
+background-color: #C78A9A;
+color: white;
+}
