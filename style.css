@@ -56,3 +56,6 @@ button:active {
     border-radius: 10px;
     font-style: italic;
 }
+html {
+    scroll-behavior: smooth;
+}
