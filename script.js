@@ -1,4 +1,6 @@
-let facts = [
+function showFact() {
+
+    let facts = [
         "I am an Accounting major at Baylor University.",
         "I have experience as an Accounting Clerk.",
         "I serve as a Peer Leader helping students succeed.",
