@@ -49,12 +49,6 @@ button:active {
     transform: scale(0.98);
 }
 
-
-button:hover {
-    background-color: #B87389;
-    transform: scale(1.05);
-}
-
 #fact {
     margin-top: 15px;
     padding: 15px;
