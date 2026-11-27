@@ -29,3 +29,22 @@ h2 {
 ul {
     line-height: 1.8;
 }
+button {
+    background-color: #C78A9A;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background-color: #B87389;
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(0.98);
+}
